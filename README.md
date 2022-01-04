@@ -5,3 +5,11 @@ So, I made this BMI Calculator in one day for fun (btw I'm a beginner in Tkinter
 
 - This was made only by using Python library called *Tkinter!* 
 
+![BMI](assets/bmi.png)
+
+- It also has an info button that opens another *Info* page:
+
+![INFO](assets/info.png)
+
+
+- *All this was made by me - RaLe :D*
