@@ -16,15 +16,6 @@ def kill_app():
     else:
         messagebox.showinfo("Returning back...", "Returning back to the app...")
 
-#def warning(message, title="USE METRIC SYSTEM!"):
-    #root = Tk()
-    #root.overrideredirect(1)
-    #root.withdraw()
-    #messagebox.showwarning(title, message)
-    #root.destroy()
-
-#warning("This application uses the Metric System!")
-
 root = Tk()
 
 
